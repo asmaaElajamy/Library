@@ -4,7 +4,7 @@ An online library project that contains a collection of books, admin can upload 
   - Localhost
   - composer
   - phpMyadmin
-  - 
+  
 # Tech Description:
   - php laravel framework
   - MY SQL
